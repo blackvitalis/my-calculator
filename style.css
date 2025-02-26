@@ -15,8 +15,8 @@ body {
  
 }
 .container {
-  min-width: 280px;
-  height: 500px;
+  max-width: 280px;
+  height: 450px;
   padding: 20px;
   border: 2px solid gray;
   border-radius: 20px;
@@ -93,4 +93,5 @@ button:focus{
 
 .equal-sign{
   min-width: 44%;
+  flex: 2
 }

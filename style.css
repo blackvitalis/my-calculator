@@ -32,7 +32,7 @@ h5{
   color: orangered;
 }
 #display{
-  min-width: 200px;
+  max-width: 280px;
   height: 60px;
   color: white;
   background-color: rgba(122, 122, 122, 0.43);
